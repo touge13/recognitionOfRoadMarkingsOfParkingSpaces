@@ -40,9 +40,9 @@
 ![alt text](<neuralNetworkApproach/seg + det/apollo_scape (pinhole)/examplesOfUse/afterPhotoshop.jpg>)
 
 ### Ссылки на скачивание датасетов:
-ApolloScape: https://apolloscape.auto/lane_segmentation.html
-WoodScape: https://drive.google.com/drive/folders/1X5JOMEfVlaXfdNy24P8VA-jMs0yzf_HR?usp=sharing
-Parking Finder: https://universe.roboflow.com/aiml-the-lebron-project/parking-finder/dataset/1
+- ApolloScape: https://apolloscape.auto/lane_segmentation.html
+- WoodScape: https://drive.google.com/drive/folders/1X5JOMEfVlaXfdNy24P8VA-jMs0yzf_HR?usp=sharing
+- Parking Finder: https://universe.roboflow.com/aiml-the-lebron-project/parking-finder/dataset/1
 
 ---
 
