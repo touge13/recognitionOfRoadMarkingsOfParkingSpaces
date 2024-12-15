@@ -1,0 +1,18 @@
+neuralNetworkApproach/segmentation/deeplabv3+ (woodscape)/modelTraining/model/deeplabv3p_epoch20.pth
+
+neuralNetworkApproach/segmentation/deeplabv3+ (apollo_scape)/modelTraining/model/deeplabv3p_epoch25.pth
+
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/modelTraining/train_results/yolov8_custom/weights/best.pt
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/modelTraining/train_results/yolov8_custom/weights/last.pt
+
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking_Finder_original.zip
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking Finder.v1i.yolov8.zip
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking Finder.v1i.yolov8
+
+neuralNetworkApproach/segmentation/deeplabv3+ (woodscape)/data/woodscape.zip
+neuralNetworkApproach/segmentation/deeplabv3+ (woodscape)/data/woodscape/semantic_annotations/rgbImages
+neuralNetworkApproach/segmentation/deeplabv3+ (woodscape)/data/woodscape/semantic_annotations/rgbLabels
+
+neuralNetworkApproach/segmentation/deeplabv3+ (apollo_scape)/data/apollo_scape.zip
+neuralNetworkApproach/segmentation/deeplabv3+ (apollo_scape)/data/apollo_scape/ColorImage
+neuralNetworkApproach/segmentation/deeplabv3+ (apollo_scape)/data/apollo_scape/Label
