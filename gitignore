@@ -7,7 +7,9 @@ neuralNetworkApproach/detection/yolov8 (Parking Finder)/modelTraining/train_resu
 
 neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking_Finder_original.zip
 neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking Finder.v1i.yolov8.zip
-neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking Finder.v1i.yolov8
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking Finder.v1i.yolov8/test
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking Finder.v1i.yolov8/train
+neuralNetworkApproach/detection/yolov8 (Parking Finder)/data/Parking Finder.v1i.yolov8/valid
 
 neuralNetworkApproach/segmentation/deeplabv3+ (woodscape)/data/woodscape.zip
 neuralNetworkApproach/segmentation/deeplabv3+ (woodscape)/data/woodscape/semantic_annotations/rgbImages
